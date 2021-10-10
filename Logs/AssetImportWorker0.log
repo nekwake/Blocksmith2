@@ -133,3 +133,6 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
   path: Assets/unknown.png
   artifactKey: Guid(b16d2d333634bee4d8711a3ce6534201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/unknown.png using Guid(b16d2d333634bee4d8711a3ce6534201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875afab11cb4a72ebbe9ff69c58e4b22') in 0.152198 seconds 
+  Import took 0.157454 seconds .
+
