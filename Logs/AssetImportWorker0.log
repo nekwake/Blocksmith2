@@ -152,3 +152,36 @@ Received Import Request.
 Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d263a77355c3fe4f83075a547d03375') in 0.008013 seconds 
   Import took 0.011245 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 189.921063 seconds.
+  path: Assets/Scenes/rx7baran.jpg
+  artifactKey: Guid(1524bdfb11bdcf04992c68a12263fee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/rx7baran.jpg using Guid(1524bdfb11bdcf04992c68a12263fee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fed6f282c95e050ec356a51b3aa7675') in 0.022040 seconds 
+  Import took 0.026135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Scenes/unknown.prefab
+  artifactKey: Guid(9c843adbbc6f1cf4289cf8e851214ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/unknown.prefab using Guid(9c843adbbc6f1cf4289cf8e851214ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771e496e827164fd453d414239716326') in 0.040217 seconds 
+  Import took 0.043384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Scenes/unknown.png
+  artifactKey: Guid(b16d2d333634bee4d8711a3ce6534201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/unknown.png using Guid(b16d2d333634bee4d8711a3ce6534201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b588d3ac09089fc50fde807975b673dd') in 0.017979 seconds 
+  Import took 0.020856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.150396 seconds.
+  path: Assets/Scenes/aa.png
+  artifactKey: Guid(fa56dc0431b4e9f489690e988ab95076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/aa.png using Guid(fa56dc0431b4e9f489690e988ab95076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5891d4773ec3c0c8711b66e6d2a524') in 0.023480 seconds 
+  Import took 0.027582 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
